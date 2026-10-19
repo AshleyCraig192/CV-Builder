@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CvBuilder.Api/CvBuilder.Api.csproj" />
+  </Folder>
+</Solution>
