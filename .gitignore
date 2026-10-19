@@ -1,0 +1,27 @@
+# ---------- .NET ----------
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+*.log
+
+# ---------- Node / React ----------
+node_modules/
+dist/
+build/
+coverage/
+npm-debug.log*
+
+# ---------- Secrets and local config (NEVER commit these) ----------
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+*.secrets.json
+
+# ---------- OS and editor files ----------
+.DS_Store
+Thumbs.db
+.idea/
